@@ -34,7 +34,7 @@ def get_device_names(ip_list):
     return device_names
 
 if __name__ == "__main__":
-    network_prefix = "192.168.0"
+    network_prefix = "192.168.211"
     start_ip_suffix = 1
     end_ip_suffix = 254
 
